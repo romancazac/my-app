@@ -1,0 +1,18 @@
+.page{
+
+  }
+  .page__top {
+    margin: 0 0 20px 0;
+  }
+  .page__top img{
+    max-width: 100%;
+  }
+  .page__user{
+    display: flex;
+  }
+  .page__info{
+    &.active{
+      color: rgb(17, 56, 172);
+    }
+    
+  }

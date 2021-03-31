@@ -1,0 +1,16 @@
+.aside__nav{
+    flex: 0 1 300px;
+    background-color: chartreuse;
+}
+li{
+    list-style: none;
+    
+}
+.aside__link{
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+}  
+.aside__link.active{
+    color: red;
+}
